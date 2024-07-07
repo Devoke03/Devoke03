@@ -1,3 +1,4 @@
+![logo](https://github.com/Devoke03/Devoke03/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sarthak Khutafale</h1>
 <h3 align="center">I'm Sarthak Khutafale, a Final-year student and dedicated Full Stack Developer. Passionate about crafting seamless digital experiences, I thrive on solving coding puzzles and diving into Data Structures and Algorithms. Beyond the code, I'm committed to constant growth in this ever-evolving tech landscape.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
